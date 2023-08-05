@@ -143,7 +143,7 @@ export default function HomePage() {
   return (
     <main className="container">
       <header>
-        <h1>Welcome to the Ashish ATM!</h1>
+        <h1>Welcome to the Ashish Store</h1>
       </header>
       <div className="content">
         <div className="box">{initUser()}</div>
